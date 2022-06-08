@@ -1,8 +1,13 @@
 <template>
+
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+  name: "Metadata"
 }
 </script>
+
+<style scoped>
+
+</style>

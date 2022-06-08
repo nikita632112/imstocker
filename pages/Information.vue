@@ -1,8 +1,13 @@
 <template>
+
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+  name: "Information"
 }
 </script>
+
+<style scoped>
+
+</style>
